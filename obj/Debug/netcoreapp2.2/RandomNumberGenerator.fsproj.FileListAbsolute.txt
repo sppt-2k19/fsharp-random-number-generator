@@ -1,0 +1,10 @@
+/Users/thor/RiderProjects/RandomNumberGenerator/RandomNumberGenerator/bin/Debug/netcoreapp2.2/RandomNumberGenerator.deps.json
+/Users/thor/RiderProjects/RandomNumberGenerator/RandomNumberGenerator/bin/Debug/netcoreapp2.2/RandomNumberGenerator.runtimeconfig.json
+/Users/thor/RiderProjects/RandomNumberGenerator/RandomNumberGenerator/bin/Debug/netcoreapp2.2/RandomNumberGenerator.runtimeconfig.dev.json
+/Users/thor/RiderProjects/RandomNumberGenerator/RandomNumberGenerator/bin/Debug/netcoreapp2.2/RandomNumberGenerator.dll
+/Users/thor/RiderProjects/RandomNumberGenerator/RandomNumberGenerator/bin/Debug/netcoreapp2.2/RandomNumberGenerator.pdb
+/Users/thor/RiderProjects/RandomNumberGenerator/RandomNumberGenerator/obj/Debug/netcoreapp2.2/RandomNumberGenerator.fsprojAssemblyReference.cache
+/Users/thor/RiderProjects/RandomNumberGenerator/RandomNumberGenerator/obj/Debug/netcoreapp2.2/RandomNumberGenerator.AssemblyInfoInputs.cache
+/Users/thor/RiderProjects/RandomNumberGenerator/RandomNumberGenerator/obj/Debug/netcoreapp2.2/RandomNumberGenerator.AssemblyInfo.fs
+/Users/thor/RiderProjects/RandomNumberGenerator/RandomNumberGenerator/obj/Debug/netcoreapp2.2/RandomNumberGenerator.dll
+/Users/thor/RiderProjects/RandomNumberGenerator/RandomNumberGenerator/obj/Debug/netcoreapp2.2/RandomNumberGenerator.pdb
